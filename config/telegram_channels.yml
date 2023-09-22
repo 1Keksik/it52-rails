@@ -4,7 +4,7 @@ groups:
     name: Всё о самом главном
     channels:
       it52info: IT события в Нижнем Новгороде
-      nnrug: lounge for developers since 2014 (тут в основном общий флудчат)
+      nn_rug: lounge for developers since 2014 (тут в основном общий флудчат)
       It52forjuniors: Чат для тех кто только-только начинает свой путь в IT
 
   work:
@@ -17,12 +17,10 @@ groups:
     name: По языкам программирования или платформам
     channels:
       rannts: Python
+      pytho_nn: Python
       js_nn: Javascript
-      golang_events_nizhny: GoLang
-      nnrug: Ruby
-      scala_nn: Scala
+      nn_rug: Ruby
       jugnn: Java
-      kotlin_nn: Kotlin
       android_nn: Android (Java, Kotlin)
       iosnndevs: iOS (Objective-C, Swift)
       php_nn: PHP NN
@@ -32,22 +30,23 @@ groups:
     name: По интересам
     channels:
       agile_nn: Сообщество Agile 
-      itarchitect_nn: Сообщество "IT Architects" Нижнего Новгорода
+      cadr_hackerspace: Хакерспейс CADR
       defcon_nn_ch: новости ITSecurity
       defcon_nn: ITSecurity
       defcon_nn_offtop: ITSecurity offtop
       devops_nn: DevOps NN
-      nnlug: NN Linux user group
-      wtm_nn: Women Techmakers
+      gamedevnn: Разработка игр в Нижнем Новгороде
       gdgnn: Google developers group
-      cadr_hackerspace: Хакерспейс CADR
-      lanparty_nn: LAN Party 2000 для гиков и фанатов олдскула. Некоммерческая тусовка по выходным
-      qalliance: Всё о тестировании
       jenkins_nn: Чат организаторов и активистов сообщества Jenkins в Нижнем Новгороде
       jenkins_ru_events: Анонсы событий в Jenkins
-      qt_52: Чат QT сообщества
+      it52startups: Cообщество для тех, у кого уже есть или кто задумывается создать свой startup
+      itarchitect_nn: Сообщество "IT Architects" Нижнего Новгорода
+      neimarkitlektoriy: IT-сообщество кампуса НЕЙМАРК
+      nnlug: NN Linux user group
       nnov_globalcityhack: Чат участников Global City Hackathon
-      gamedevnn: Разработка игр в Нижнем Новгороде
-      lanparty_nn: Чатик IT-гаража в стиле "Где мой 2007 год ?"
-      startupnn: Cообщество для тех, у кого уже есть или кто задумывается создать свой startup
       nnodsbreakfast: Организация Open Data Science завтраков и чат на темы AI/ML/DS
+      retrolan: LAN Party 2000 для гиков и фанатов олдскула. Некоммерческая тусовка по выходным
+      russiachinese: Личный бложик айтишника из китайской компании
+      startupdivisione: Клуб друзей, новаторов, инженеров, мечтателей и цифровых предпринимателей
+      qalliance: Всё о тестировании
+      qt_52: Чат QT сообщества
